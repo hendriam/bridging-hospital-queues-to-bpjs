@@ -1,0 +1,264 @@
+{
+	"metadata": {
+		"code": 200,
+		"message": "Ok"
+	},
+	"response": [
+		{
+			"namadokter": "dr. Rahel M Sitorus, SpRAd",
+			"kodedokter": 2594
+		},
+		{
+			"namadokter": "dr. Bless Dova F.A.S. Hutabarat, SpJP",
+			"kodedokter": 3780
+		},
+		{
+			"namadokter": "dr. MUHAMMAD CHAIRUL, Mked (NeuroSurg), Sp.BS",
+			"kodedokter": 7390
+		},
+		{
+			"namadokter": "dr. Marwan Moeharman , Sp.THT-KL",
+			"kodedokter": 14788
+		},
+		{
+			"namadokter": "dr Melvin N.G Barus, SP. OG",
+			"kodedokter": 18871
+		},
+		{
+			"namadokter": "dr Julita A Lubis. Sp. OG",
+			"kodedokter": 19490
+		},
+		{
+			"namadokter": "dr Henni Maria Saragih, M.Ked, Sp. P",
+			"kodedokter": 19994
+		},
+		{
+			"namadokter": "dr Muhammad Amir Syah Putra",
+			"kodedokter": 20251
+		},
+		{
+			"namadokter": "dr Udut Trihoran, Sp PD",
+			"kodedokter": 20286
+		},
+		{
+			"namadokter": "drg. Hendry Rusdi, SpBM,Mkes",
+			"kodedokter": 22582
+		},
+		{
+			"namadokter": "Dr. HENDRA RAZMI",
+			"kodedokter": 28592
+		},
+		{
+			"namadokter": "dr. Parambir Singh",
+			"kodedokter": 30139
+		},
+		{
+			"namadokter": "dr. Micca Yunitra",
+			"kodedokter": 30143
+		},
+		{
+			"namadokter": "dr. Ardiana",
+			"kodedokter": 30147
+		},
+		{
+			"namadokter": "dr. Nurul Fadilla Zulad",
+			"kodedokter": 30157
+		},
+		{
+			"namadokter": "dr. Ria Octaviana",
+			"kodedokter": 30161
+		},
+		{
+			"namadokter": "dr. Ellya Nova Lubis, Sp. A",
+			"kodedokter": 30193
+		},
+		{
+			"namadokter": "dr. Syamsidah Lubis, Sp. A",
+			"kodedokter": 30194
+		},
+		{
+			"namadokter": "dr. Syamsidah Lubis, Sp. A",
+			"kodedokter": 30194
+		},
+		{
+			"namadokter": "dr. Atika Rimalda Nasution, Sp.A",
+			"kodedokter": 30195
+		},
+		{
+			"namadokter": "dr. Zahri Ilma Fadly, Sp, PD",
+			"kodedokter": 30196
+		},
+		{
+			"namadokter": "dr. Salomo Simanjuntak, Sp. PD",
+			"kodedokter": 30199
+		},
+		{
+			"namadokter": "dr. Harry Butar-Butar, Sp. B",
+			"kodedokter": 30202
+		},
+		{
+			"namadokter": "dr. M. Ikhwan, Sp. OG",
+			"kodedokter": 30206
+		},
+		{
+			"namadokter": "dr. Edwin Martin Asroel, Sp. OG",
+			"kodedokter": 30207
+		},
+		{
+			"namadokter": "dr. Leo Jumadi Simanjuntak, Sp. OG",
+			"kodedokter": 30208
+		},
+		{
+			"namadokter": "dr. Dhirajaya Dharma Kadar, Sp. U",
+			"kodedokter": 30209
+		},
+		{
+			"namadokter": "dr. Asrul, Sp.B – KBD",
+			"kodedokter": 30210
+		},
+		{
+			"namadokter": "Dr. dr. Iqbal Pahlevi Adeputra Nst., Sp. BA",
+			"kodedokter": 30211
+		},
+		{
+			"namadokter": "Dr. dr. Kiking Ritarwan, Sp. S (K), MKT",
+			"kodedokter": 30212
+		},
+		{
+			"namadokter": "dr. Laura Oktavina Siagian, Sp. S",
+			"kodedokter": 30213
+		},
+		{
+			"namadokter": "dr. Alfansuri Kadri, Sp. S",
+			"kodedokter": 30214
+		},
+		{
+			"namadokter": "dr. Abdul Halim Raynaldo, Sp. JP",
+			"kodedokter": 30215
+		},
+		{
+			"namadokter": "dr. Mohd. Abrar Danial, Sp. M",
+			"kodedokter": 30216
+		},
+		{
+			"namadokter": "dr. Silvia T. Bangun, Sp. KK",
+			"kodedokter": 30218
+		},
+		{
+			"namadokter": "dr. H. Sutoyo Eliandy, M.Ked (PA), Sp. PA",
+			"kodedokter": 30220
+		},
+		{
+			"namadokter": "dr. Rizalina A. Asnir, Sp. THT-KL (K) FICS",
+			"kodedokter": 30221
+		},
+		{
+			"namadokter": "dr. Rehulina Surbakti, Sp. THT - KL",
+			"kodedokter": 30222
+		},
+		{
+			"namadokter": "dr. Mawar Gloria Tarigan, Sp. KJ",
+			"kodedokter": 30224
+		},
+		{
+			"namadokter": "dr. M. Rizal Renaldy, Sp. OT",
+			"kodedokter": 30226
+		},
+		{
+			"namadokter": "drg. Alma Wirena",
+			"kodedokter": 30229
+		},
+		{
+			"namadokter": "KENVIN RUSLI",
+			"kodedokter": 213254
+		},
+		{
+			"namadokter": "dr. Juliamor Sinulingga, Sp.Rad",
+			"kodedokter": 215254
+		},
+		{
+			"namadokter": "DR.ANITAWATI M.KED (CLINPATH) SP.PK",
+			"kodedokter": 258252
+		},
+		{
+			"namadokter": "dr. SABAR PETRUS SEMBIRING, Sp.PD FINASIM",
+			"kodedokter": 259640
+		},
+		{
+			"namadokter": "dr.YOSIA GINTING.Sp.PD, KPTI",
+			"kodedokter": 259780
+		},
+		{
+			"namadokter": "dr.YOSIA GINTING.Sp.PD, KPTI",
+			"kodedokter": 259780
+		},
+		{
+			"namadokter": "DR IMELDA REY, M KED (PD), SPPD",
+			"kodedokter": 261360
+		},
+		{
+			"namadokter": "dr. Setia Putra Tarigan, Sp. P (K)",
+			"kodedokter": 261412
+		},
+		{
+			"namadokter": "dr. Setia Putra Tarigan, Sp. P (K)",
+			"kodedokter": 261412
+		},
+		{
+			"namadokter": "MUHAMMAD ALI SYAHPUTRA",
+			"kodedokter": 263974
+		},
+		{
+			"namadokter": "DR.TERAPUL BR TARIGAN,Sp.A (K)",
+			"kodedokter": 270012
+		},
+		{
+			"namadokter": "dr. O.K. ILHAM ABDULLAH IRSYAM, Sp.O.T",
+			"kodedokter": 285184
+		},
+		{
+			"namadokter": "dr.Desi Mayank Sari",
+			"kodedokter": 326541
+		},
+		{
+			"namadokter": "DR WAN FADHLUNNISA",
+			"kodedokter": 373385
+		},
+		{
+			"namadokter": "CHRISTIAN FRIZT GORDON LUMBAN GAOL",
+			"kodedokter": 376144
+		},
+		{
+			"namadokter": "VIONA MEDIA TRISESA",
+			"kodedokter": 376173
+		},
+		{
+			"namadokter": "dr. DOLI CATUR UTOMO, Sp. U",
+			"kodedokter": 376809
+		},
+		{
+			"namadokter": "MARTI SIFRA HUTASOIT",
+			"kodedokter": 410280
+		},
+		{
+			"namadokter": "dr. NADYA NAVIRA",
+			"kodedokter": 428148
+		},
+		{
+			"namadokter": "ANTONIUS JANSEN",
+			"kodedokter": 428155
+		},
+		{
+			"namadokter": "dr. LYDIA MONALISA SIMANJUNTAK",
+			"kodedokter": 431577
+		},
+		{
+			"namadokter": "FELICIA DEWI",
+			"kodedokter": 438812
+		},
+		{
+			"namadokter": "YASHINTA AQMALIA",
+			"kodedokter": 454890
+		}
+	]
+}

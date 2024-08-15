@@ -1,0 +1,19 @@
+{
+    "definitions": {},
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$idupdate": "http://example.com/update.json",
+    "type": "object",
+    "title": "The Root Schema",
+    "required": [
+        "nik",
+        "nohp",
+        "kodepoli",
+        "norm",
+        "tanggalperiksa",
+        "kodedokter",
+        "jampraktek",
+        "jeniskunjungan"
+    ],
+    "properties": {
+    }
+}
